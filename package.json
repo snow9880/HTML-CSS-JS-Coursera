@@ -1,0 +1,27 @@
+{
+  "name": "html-css-js",
+  "version": "1.0.0",
+  "description": "html css js coursera course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snow9880/HTML-CSS-JS-Coursera.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Michelle Johnston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snow9880/HTML-CSS-JS-Coursera/issues"
+  },
+  "homepage": "https://github.com/snow9880/HTML-CSS-JS-Coursera#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
